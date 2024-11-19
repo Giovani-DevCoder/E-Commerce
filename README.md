@@ -2,4 +2,4 @@
 
 16 de Noviembre: Se agrego la funcionalidad de Registro y Inicio de sesion, usandose Mongodb como base de datos para almacenar la informacion de las cuentas.
 
-17 de Noviembre: 
+18 de Noviembre: Avances del proyecto, correccion de errores
