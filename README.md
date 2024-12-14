@@ -4,4 +4,4 @@
 
 18 de Noviembre: Avances del proyecto, correccion de errores
 
-avance de proyecto, mejora del dashboard
+avance de proyecto, mejora del dashboard, integracion de admin panel
